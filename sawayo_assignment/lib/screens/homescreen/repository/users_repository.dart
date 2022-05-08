@@ -12,6 +12,6 @@ class UsersRepository {
       return value;
     });
 
-    return UserDetailsFromJson(response);
+    return userDetailsFromJson(response);
   }
 }
