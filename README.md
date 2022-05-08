@@ -1,6 +1,6 @@
 # sawayo_assignment
 
-Thankyou for this assignment. I havea a good time implementing this app.
+Thankyou for this assignment. I had a good time implementing this app.
 
 Fundamentals:
 1. MVVM architecture has been used for structuring the code.
